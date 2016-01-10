@@ -9,7 +9,7 @@ The purpose of this exercise is to assess the candidate’s ability to build cro
 - Candidates must have a GitHub account
 
 ##Instructions
-1. Fork this repository - [https://github.com/cbjugstad/tech-interview-github-dashboard](https://github.com/cbjugstad/tech-interview-github-dashboard)
+1. Fork this repository - [https://github.com/jeremyabbott/techinterview-github](https://github.com/jeremyabbott/techinterview-github)
 2. Create a client that satisfies the requirements below
 3. Include, at the top of this README, instructions required for the reviewer to run the submission
 4. Include, at the top of this README, any other information that will be useful to the reviewer
@@ -28,7 +28,6 @@ Once the submission is reviewed the candidate will be notified and possibly invi
 	- **Native Android** - Android Studio
 	- **Windows/Phone** - Visual Studio
 - Third party libraries or packages are acceptable but must be managed via a package manager i.e. Nuget, CocoaPods, npm, bower, etc. Third party components will NOT be manually installed by the reviewer.
-
 
 ##Assessment
 
