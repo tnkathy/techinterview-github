@@ -1,13 +1,13 @@
 # Technical Interview Homework: GitHub Dashboard
 
 
-##Purpose
+## Purpose
 The purpose of this exercise is to assess the candidate’s ability to build cross platform software clients that satisfy stated requirements. The completed assignment should not only satisfy the requirements outlined below, but also give the candidate an opportunity to show-off their skills.
 
-##Prerequisites
+## Prerequisites
 - Candidates must have a GitHub account
 
-##Instructions
+## Instructions
 1. Fork this repository - [https://github.com/Praeses/techinterview-github](https://github.com/Praeses/techinterview-github)
 2. Create a client that satisfies the requirements below
 3. Include, at the top of this README, instructions required for the reviewer to run the submission
@@ -16,7 +16,7 @@ The purpose of this exercise is to assess the candidate’s ability to build cro
 
 Once the submission is reviewed the candidate will be notified and possibly invited to participate in a follow-up interview where interviewers will collaboratively work with the candidate to review the submission, discuss possible enhancements, and possibly implement a new feature. 
 
-#####Additional Notes...
+##### Additional Notes...
 
 - Feel free to ask your point of contact any clarifying questions you might have. 
 - Submissions must be relatively trivial to run as outlined in the candidate's instructions. We suggest that you test the run instructions on a clean clone of your repository. **Submissions we can't run per the instructions will be rejected.**
@@ -28,7 +28,7 @@ Once the submission is reviewed the candidate will be notified and possibly invi
 	- **Windows/Phone** - Visual Studio
 - Third party libraries or packages are acceptable but must be managed via a package manager i.e. Nuget, CocoaPods, npm, bower, etc. Third party components will NOT be manually installed by the reviewer.
 
-##Assessment
+## Assessment
 
 Cross platform client development requires a familiarity and aptitude to work with...
 
@@ -36,7 +36,7 @@ Cross platform client development requires a familiarity and aptitude to work wi
 - Presentation layer frameworks: Native iOS & Android, Cordova, HTML/CSS/JS, etc.
 - HTTP based APIs
 
-#####Assessment will focus on the candidate's ability to...
+##### Assessment will focus on the candidate's ability to...
 
 - Review and understand API documentation.
 - Consume an API, and present API content in a client. 
@@ -44,18 +44,18 @@ Cross platform client development requires a familiarity and aptitude to work wi
 - Create a simple and understandable user interface and user experience. Note that clear and understandable does NOT mean graphically interesting.
 - The user experience should be targeted at a mobile screen size, preferably tablet optimized yet functional on a phone sized screen.
 
-#####Exceptional Candidates will...
+##### Exceptional Candidates will...
 
 - Submit a solution that will run on both iOS and Android
 - Have a simple architecture that is easy to enhance and extend
 
-##Requirements - GitHub Dashboard 
+## Requirements - GitHub Dashboard 
 GitHub has a public API that will be used for this assignment. We will be displaying content from the GitHub API in a user "dashboard."
 
-#####Resources
+##### Resources
 - [GitHub API](https://developer.github.com/v3/ "GitHub API")
 
-#####Minimum Requirements
+##### Minimum Requirements
 - The client will have a title clearly indicating the purpose and content of the client.
 - The client will be touch friendly.
 - The client will display a feed of GitHub public events available at the following endpoint
@@ -68,7 +68,7 @@ GitHub has a public API that will be used for this assignment. We will be displa
 - The client will have a button to refresh the feed of public events.
 - The client will allow a user to tap the public event and display event details.
 
-#####Optional (stretch) Enhancements
+##### Optional (stretch) Enhancements
 - Implement a "pull down" to refresh the feed of public events.
 - On the public event details screen...
 	- Display a user's avatar next to their name.
