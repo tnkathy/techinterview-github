@@ -1,3 +1,8 @@
+I started this project coding in Xamarin.Form Visual Studio because it can targets both Android and iOS. However, I got stuck trying to consume the API. I've tried using HTTPClient, WebClient, and even Octokit.Net, but it keeps returning null with the error "Unable to cast object of type 'System.RuntimeType' to type 'Mono.Debugger.Soft.TypeMirror'." I've tried to research the problem and the error but it didn't help. I've included the project if you want to take a look at it. But in the end, I decided to redo the project in HTML/CSS/JavaScript.
+
+I was able to get the data from the API, and for each events, generate a button to display the data and a div (modal) to display the details. I ran into an issue of trying to match up the button to its respective modal. Unfortunately, I could not resolve this problem in time. I've included both the scripts : 1) to show what its supposed to do 2) is what I'm currently working on to fixed it. The details are commented in the project's files. 
+
+
 # Technical Interview Homework: GitHub Dashboard
 
 
