@@ -1,0 +1,9 @@
+E:\Github\ghAPI\ghAPI\ghAPI\bin\Debug\netstandard2.0\ghAPI.deps.json
+E:\Github\ghAPI\ghAPI\ghAPI\bin\Debug\netstandard2.0\ghAPI.dll
+E:\Github\ghAPI\ghAPI\ghAPI\bin\Debug\netstandard2.0\ghAPI.pdb
+E:\Github\ghAPI\ghAPI\ghAPI\obj\Debug\netstandard2.0\ghAPI.csprojAssemblyReference.cache
+E:\Github\ghAPI\ghAPI\ghAPI\obj\Debug\netstandard2.0\ghAPI.csproj.CoreCompileInputs.cache
+E:\Github\ghAPI\ghAPI\ghAPI\obj\Debug\netstandard2.0\ghAPI.AssemblyInfoInputs.cache
+E:\Github\ghAPI\ghAPI\ghAPI\obj\Debug\netstandard2.0\ghAPI.AssemblyInfo.cs
+E:\Github\ghAPI\ghAPI\ghAPI\obj\Debug\netstandard2.0\ghAPI.dll
+E:\Github\ghAPI\ghAPI\ghAPI\obj\Debug\netstandard2.0\ghAPI.pdb
