@@ -1,0 +1,170 @@
+body
+{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #35404F;
+}
+#navbar
+{
+  float: left;
+  width: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #4AAAA5;
+  color: #35404F;
+}
+#navbar ul li
+{
+  list-style-type: none;
+  display: inline-block;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 20px;
+}
+#navbar ul li a
+{
+  text-decoration: none;
+  color: #35404F;
+}
+#navbar ul li a:hover
+{
+  color: #A3D39C;
+  cursor: pointer;
+}
+.selected
+{
+  border: 2px solid #A3D39C;
+}
+#bodyContainer
+{
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.pubEvents
+{
+  background-color: #	#F0F0F0;
+  border: 2px solid #4AAAA5;
+  border-radius: 10px;
+  color: #35404F;
+  width: 100%;
+  font-size: 20px;
+  margin-top: 20px;
+  text-align: left;
+}
+.pubEvents ul li
+{
+  list-style-type: none;
+}
+.pubEvents:hover
+{
+  background-color: #A3D39C;
+  cursor: pointer;
+}
+.bgModal
+{
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.8);
+  cursor: default;
+}
+.modalContent
+{
+  background-color:#F4F4F4;
+  color: #35404F;
+  margin: 10% auto;
+  width:50%;
+  overflow: auto;
+}
+.modalContent ul li
+{
+  list-style-type: none;
+  line-height: 1.6;
+}
+.modalHeader h2
+{
+  font-size: 30px;
+  margin: 0;
+}
+.modalHeader
+{
+  background: #4AAAA5;
+  padding: 15px;
+  color: #35404F;
+}
+.modalBody
+{
+  font-size: 20px;
+  padding: 10px 20px;
+}
+.modalFooter
+{
+  background: #4AAAA5;
+  padding: 10px;
+  text-align: center;
+}
+.modalFooter h2
+{
+  font-size: 25px;
+}
+.modalFooter a
+{
+  color: #35404F;
+  text-decoration: none;
+}
+.modalFooter a:hover
+{
+  color: #7CCCC5;
+  cursor: pointer;
+}
+.avatar
+{
+  float: left;
+  margin-right: 20px;
+}
+.closeBtn
+{
+  float: right;
+  font-size: 30px;
+}
+.closeBtn:hover
+{
+  color: #7CCCC5;
+  cursor: pointer;
+}
+#refreshBtn
+{
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  border-radius: 10%;
+  background-color: #7CCCC5;
+  border: 2px solid #35404F;
+  font-size: 25px;
+  color: #35404F;
+}
+#refreshBtn:hover
+{
+  background-color: #A3D39C;
+  cursor: pointer;
+}
+#signInBtn
+{
+  background-color: #7CCCC5;
+  border: 2px solid #35404F;
+  border-radius: 50%;
+  font-size: 25px;
+  color: #35404F;
+  padding: 10px;
+}
+#signInBtn:hover
+{
+  background-color: #A3D39C;
+  cursor: pointer;
+}

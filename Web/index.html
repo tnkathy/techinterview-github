@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<link href="css/ghDashboardCSS.css" rel="stylesheet" type="text/css">
+
+<head>
+  <meta charset="utf-8">
+  <title>Github Dashboard</title>
+</head>
+
+<body>
+  <div id="navbar">
+    <h1>Github Dashboard</h1>
+    <ul>
+      <li class="selected">PUBLIC EVENTS</li>
+      <li><a href="personal.html">PERSONAL EVENTS</a></li>
+    </ul>
+  </div>
+
+  <div id="bodyContainer">
+
+  </div>
+  <button id="refreshBtn" onclick="refresh()">&#8635;<br>Refresh</button>
+
+  <!--This is my original script. It work how I intended. The problem is, no matter which button I pressed,
+  only the first modal will pop-up. Also, for some reason, it does not work on the first try.
+  The modal will only start showing up the second time you pressed the button.-->
+  <script src="js/modalScript.js"></script>
+
+  <!--This is the script that I am currently working on to fixed the problem.
+  //I did commented a line out to show that all the detail's modals are there and they work,
+  I just haven't been able to connect them to the buttons.
+  Please comment out the first script before viewing this script.-->
+  <!--<script src="js/publicScript.js"></script>-->
+  
+</body
+</html>
